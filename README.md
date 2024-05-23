@@ -6,9 +6,9 @@
 
 ##
 
-## :rocket: Tecnologias
+## :rocket: Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - Vite
 - Styled Components
@@ -18,17 +18,19 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Axios
 - API do Github
  
- ## :computer: Projeto
+ ## :computer: Project
 
-O GitHub Blog é uma aplicação que utiliza a API do GitHub para buscar issues de um repositório, dados do perfil e exibir elas como um blog.
+GitHub Blog is an application that uses the GitHub API to fetch issues from a repository, profile data and display them as a blog.
 
-## :thinking: Como contribuir
+## :thinking: How to contribute:
 
-- Faça um fork desse repositório;
-- Crie uma branch com a sua feature: git checkout -b minha-feature;
-- Faça commit das suas alterações: git commit -m 'feat: Minha nova feature';
-- Faça push para a sua branch: git push origin minha-feature.
+- Fork this repository;
+- Create a branch with your feature: git checkout -b my-feature;
+- Commit your changes: git commit -m 'feat: My new feature';
+- Push to your branch: git push origin my-feature.
 
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+After your pull request is merged, you can delete your branch.
+
 #
-Feito com :hearts: by thiagomrts :wave:
+
+Done with :hearts: by thiagomrts :wave:
